@@ -1,2 +1,2 @@
 # mkdocs_practice
-"Hello"
+Hello
